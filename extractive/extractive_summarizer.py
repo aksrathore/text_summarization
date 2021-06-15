@@ -242,7 +242,7 @@ class SumyExtractiveSummarizer(ExtractiveSummarizer):
         return summary
 
 if __name__ == '__main__':
-    text = "I live in Mars. It is a beautiful planet. It is known as Red Planet. Aliens are said to exist there"
+    text = "I live on Mars. It is a beautiful planet. It is known as Red Planet. Aliens are said to exist there"
     summarizer = TFIDFExtractiveSummarizer()
     summary = summarizer.get_summary(text)
     print(summary)
