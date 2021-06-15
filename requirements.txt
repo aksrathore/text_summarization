@@ -1,0 +1,13 @@
+streamlit
+nltk
+spacy
+rich
+contractions
+transformers==4.5.0
+pytorch-lightning==1.2.7
+sumeval
+matplotlib
+seaborn
+pandas
+scikit-learn
+gensim==3.8.3
