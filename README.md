@@ -25,4 +25,5 @@ Text summarization is classified into two types — __Extractive__ *and* __Abstr
 #### 1. Summarization implementation using Google's T5 algorithm
 
 [Text-To-Text Transfer Transformer (T5)](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html)
+
 [Huggingface Transformers T5](https://huggingface.co/transformers/model_doc/t5.html)
